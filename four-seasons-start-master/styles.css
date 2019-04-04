@@ -1,0 +1,58 @@
+html {
+    background-color: #990100;
+}
+
+body {
+    background-color: white;
+    width: 800px;
+    margin:0 auto;
+    padding: 10px 150px 60px;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 52px;
+    text-align: center;
+}
+
+p, ul{
+    font-family: Helvetica;
+    letter-spacing: 0.5px;
+    line-height: 22px
+}
+
+.reference {
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}
+
+audio {
+    vertical-align: middle;
+}
+
+a {
+    color: #990100;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.spring {
+    color: #0E94D1;
+}
+
+.summer {
+    color: #1CA848;
+}
+
+.autumn {
+    color: #FA6700;
+}
+
+.winter {
+    color: #1C64B9;
+}
